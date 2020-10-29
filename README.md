@@ -1,7 +1,5 @@
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/Play-Switch-e60012?style=flat&logo=nintendo%20switch&logoColor=ffffff)
 <!--
 **priscillascu/priscillascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
