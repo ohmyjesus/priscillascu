@@ -1,8 +1,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=priscillascu&theme=dark)
 
-![](https://img.shields.io/badge/-Linux-Ubuntu-FFFF?style=flat-square&logo=Linux&logoColor=fcc624)
+![](https://img.shields.io/badge/Linux-Ubuntu-FFFF?style=flat&logo=Linux&logoColor=fcc624)
 
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat&logo=nintendo%20switch&logoColor=ffffff)
 <!--
 **priscillascu/priscillascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
