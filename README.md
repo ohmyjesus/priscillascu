@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=(C++)&logoColor=ffffff)
+![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual_Studio_Code&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
