@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=priscillascu&theme=dark)
 
-![](https://img.shields.io/badge/Linux-Ubuntu-FFFF&logo=Linux)
+![](https://img.shields.io/badge/Linux-Ubuntu-FFFF&logo=Linux&logoColor=fcc624)
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 <!--
