@@ -2,11 +2,6 @@
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/Play-Switch-e60012?style=flat&logo=nintendo%20switch&logoColor=ffffff)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:📊 Weekly development breakdown-->
-
-<!--END_SECTION:📊 Weekly development breakdown-->
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
