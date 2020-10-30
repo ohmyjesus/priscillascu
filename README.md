@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Major-Robotic%Contorl-e60012?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/Play-Switch-e60012?style=flat&logo=nintendo%20switch&logoColor=ffffff)
