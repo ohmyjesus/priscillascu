@@ -3,14 +3,14 @@
 ![](https://img.shields.io/badge/Play-Switch-e60012?style=flat&logo=nintendo%20switch&logoColor=ffffff)
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+<!-- waka-box start -->
 ```text
 Vue.js                5 hrs 38 mins   ███████████████░░░░░░░░░░   59.36 % 
 C++                   3 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.37 % 
 Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
-<!--END_SECTION:waka-->
+<!-- waka-box end -->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
