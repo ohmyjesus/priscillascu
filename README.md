@@ -4,7 +4,6 @@
 
 📊 **This Week I Spent My Time On:**
 <!-- waka-box start -->
-
 <!-- waka-box end -->
 
 <details>
