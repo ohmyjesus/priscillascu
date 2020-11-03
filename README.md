@@ -1,7 +1,7 @@
 # Yang Haixin    
 ### SCU-EE    Chengdu
 
-![](https://img.shields.io/badge/Major-Robotic%20Contorl-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Major-Control%20Engineering-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Matlab-0076ab?style=flat&logo=Mathworks&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
